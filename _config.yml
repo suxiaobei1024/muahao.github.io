@@ -1,16 +1,15 @@
 future: true
 permalink: /:title/
-url: http://hustcat.github.io
-name: YY哥
-author: hustcat
-qq: 
-email: hustcat@gmail.com
-duoshuo: hustcat
+url: http://muahao.github.io
+name: Ahao Mu
+author: Ahao Mu
+email: ahao.muu@gmail.com
+duoshuo: Ahao Mu
 beian: 
 cnzz: 
-weibo: hustcat
-github: hustcat
+weibo: Ahao Mu
+github: Ahao Mu
 paginate: 20
 highlighter: rouge
 truncate: true
-about: "YY哥(hustcat)"
+about: "Ahao Mu"
