@@ -12,9 +12,9 @@ Focus on Linux system and Linux kernel performance, debug, technique skills supp
 * Education
     * Undergraduate(09/2011 - 07/2015) Xi`an University of Posts & Telecommunications.
 
-* Major field
-	* Kernel development relevant
-	* Kernel debug
+* Major fields
+	* Linux kernel development relevant
+	* Linux kernel debug
 	* Linux system adminitration
 
 ---
