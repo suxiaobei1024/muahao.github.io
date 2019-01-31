@@ -19,9 +19,11 @@ Focus on Linux system and Linux kernel performance, debug, technique skills supp
 
 ---
 ### Experience
-* Linux kernel development relevant
-* Linux kernel debug
-* Linux system adminitration
+* Time: 07/2015 - now: work for alibaba around linux kernel.
+
+---
+### Presentations
+* 2018.07.26: LC3 topic share:<Advanced Disk Activity Tracing Tool - ioTrace> ![Ahao_Mu_LC3_iotrace.pdf](pdf/Ahao_Mu_LC3_iotrace.pdf)
 
 ----
 
@@ -30,7 +32,7 @@ Email：ahaomuu@gmail.com
 
 Linkedin: [Ahao Mu](https://www.linkedin.com/in/ahao-mu-86072394/)
 
-Github: https://github.com/muahao
+Github: [https://github.com/muahao](https://github.com/muahao)
 
 ----
 
