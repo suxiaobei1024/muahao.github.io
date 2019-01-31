@@ -2,6 +2,7 @@
 layout: post
 title: "如何优雅的拔掉 /dev/sdl"
 author: muahao
+excerpt: 如何优雅的拔掉 /dev/sdl
 tags:
 - block
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Getting start with dbus in systemd (05) - How to build upstream systemd source code"
 author: muahao
+excerpt: Getting start with dbus in systemd (05) - How to build upstream systemd source code
 tags:
 - systemd
 ---

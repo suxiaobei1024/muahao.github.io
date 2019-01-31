@@ -2,6 +2,7 @@
 layout: post
 title: "特权容器对宿主机udev影响"
 author: Ahao Mu
+excerpt: 特权容器对宿主机udev影响
 tags:
 - Linux
 - Container

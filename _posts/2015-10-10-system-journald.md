@@ -2,6 +2,7 @@
 layout: post
 title: "The relation between systemd-journald and syslog on Centos7"
 author: Ahao Mu
+excerpt: The relation between systemd-journald and syslog on Centos7
 tags:
 - Linux
 ---

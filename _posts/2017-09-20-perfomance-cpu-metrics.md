@@ -2,6 +2,7 @@
 layout: post
 title: "Tracing - tracepoint in kernel"
 author: muahao
+excerpt: Tracing - tracepoint in kernel
 tags:
 - tracing
 ---

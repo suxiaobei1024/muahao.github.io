@@ -2,6 +2,7 @@
 layout: post
 title: "Realize of hung task in kernel-3.10"
 author: muahao
+excerpt: Realize of hung task in kernel-3.10
 tags:
 - debug
 ---

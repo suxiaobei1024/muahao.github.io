@@ -2,6 +2,7 @@
 layout: post
 title: "Getting start with dbus in systemd (02) - How to create a private dbus-daemon"
 author: muahao
+excerpt: Getting start with dbus in systemd (02) - How to create a private dbus-daemon
 tags:
 - systemd
 ---

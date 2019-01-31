@@ -2,6 +2,7 @@
 layout: post
 title: "In-depth code research - per-cpu-variable"
 author: Ahao Mu
+excerpt: In-depth code research - per-cpu-variable
 tags:
 - kernel
 ---

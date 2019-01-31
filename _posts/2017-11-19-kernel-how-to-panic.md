@@ -2,6 +2,7 @@
 layout: post
 title: "如何手动触发物理机panic，并产生vmcore?"
 author: muahao
+excerpt: 如何手动触发物理机panic，并产生vmcore?
 tags:
 - debug
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Getting start with dbus in systemd (04) - How to build centos systemd"
 author: muahao
+excerpt: Getting start with dbus in systemd (04) - How to build centos systemd
 tags:
 - systemd
 ---

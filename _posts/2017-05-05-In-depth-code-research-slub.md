@@ -2,6 +2,7 @@
 layout: post
 title: "In-depth code research - slub"
 author: muahao
+excerpt: In-depth code research - slub
 tags:
 - kernel
 - memory

@@ -2,6 +2,7 @@
 layout: post
 title: "Linux中free命令buffer和cache的区别"
 author: Ahao Mu
+excerpt: Linux中free命令buffer和cache的区别
 tags:
 - Linux
 ---

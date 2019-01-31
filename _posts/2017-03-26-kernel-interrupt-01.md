@@ -2,6 +2,7 @@
 layout: post
 title: "kernel interrupt - softirq, tasklet, workqueue"
 author: muahao
+excerpt: kernel interrupt - softirq, tasklet, workqueue
 tags:
 - kernel
 ---

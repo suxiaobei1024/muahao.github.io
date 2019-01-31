@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction of ftrace"
 author: Ahao Mu
+excerpt: Introduction of ftrace
 tags:
 - tracing
 ---

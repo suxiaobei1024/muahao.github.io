@@ -2,6 +2,7 @@
 layout: post
 title: "Comprehence PTR_ERR,ERR_PTR,IS_ERR"
 author: muahao
+excerpt: Comprehence PTR_ERR,ERR_PTR,IS_ERR
 tags:
 - kernel
 ---

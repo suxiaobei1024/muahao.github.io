@@ -2,6 +2,7 @@
 layout: post
 title: "What is softlockup and hardlockup in kernel?"
 author: muahao
+excerpt: What is softlockup and hardlockup in kernel?
 tags:
 - debug
 ---

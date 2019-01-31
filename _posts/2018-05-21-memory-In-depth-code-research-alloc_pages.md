@@ -2,6 +2,7 @@
 layout: post
 title: "In-depth code research - alloc_pages"
 author: muahao
+excerpt: In-depth code research - alloc_pages
 tags:
 - memory
 - kernel

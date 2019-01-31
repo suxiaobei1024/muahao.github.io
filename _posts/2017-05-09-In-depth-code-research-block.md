@@ -2,6 +2,7 @@
 layout: post
 title: "In-depth code research - block (request, bio, q)"
 author: Ahao Mu
+excerpt: In-depth code research - block (request, bio, q)
 tags:
 - kernel
 - block

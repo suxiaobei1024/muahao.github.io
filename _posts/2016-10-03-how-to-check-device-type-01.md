@@ -2,6 +2,7 @@
 layout: post
 title: "Linux如何区分盘的类型"
 author: muahao
+excerpt: Linux如何区分盘的类型
 tags:
 - storage
 ---

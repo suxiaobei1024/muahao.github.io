@@ -2,6 +2,7 @@
 layout: post
 title: "How to set grub2 in centos7 ?"
 author: muahao
+excerpt: How to set grub2 in centos7 ?
 tags:
 - debug
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "如何使用swap效缓解内存压力?"
 author: Ahao Mu
+excerpt: 如何使用swap效缓解内存压力?
 tags:
 - Linux
 ---

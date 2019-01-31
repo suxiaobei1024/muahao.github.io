@@ -2,6 +2,7 @@
 layout: post
 title: "Getting start with ksm in kernel (01)"
 author: Ahao Mu
+excerpt: Getting start with ksm in kernel (01)
 tags:
 - kernel
 - memory

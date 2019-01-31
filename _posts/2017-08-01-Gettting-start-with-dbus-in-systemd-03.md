@@ -2,6 +2,7 @@
 layout: post
 title: "Getting start with dbus in systemd (03) - sd-bus.h 使用例子 （systemd version>=221）"
 author: muahao
+excerpt: Getting start with dbus in systemd (03) - sd-bus.h 使用例子 （systemd version>=221）
 tags:
 - systemd
 ---

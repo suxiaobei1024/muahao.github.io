@@ -2,6 +2,7 @@
 layout: post
 title: "In-depth code reserach - task_struct"
 author: muahao
+excerpt: In-depth code reserach - task_struct
 tags:
 - kernel
 - scheduler

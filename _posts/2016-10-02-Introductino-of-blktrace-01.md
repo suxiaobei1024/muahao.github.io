@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction of blktrace"
 author: muahao
+excerpt: Introduction of blktrace
 tags:
 - kernel
 - block

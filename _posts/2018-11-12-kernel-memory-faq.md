@@ -2,6 +2,7 @@
 layout: post
 title: "Linux kernel memory-faq.txt"
 author: Ahao Mu
+excerpt: Linux kernel memory-faq.txt
 tags:
 - kernel
 - memory

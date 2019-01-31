@@ -2,6 +2,7 @@
 layout: post
 title: "Linux系统资源分析之 - CPU"
 author: Ahao Mu
+excerpt: Linux系统资源分析之 - CPU
 tags:
 - Linux
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Linux kernel crash/Oops debug skills"
 author: muahao
+excerpt: Linux kernel crash/Oops debug skills
 tags:
 - kernel
 - crash

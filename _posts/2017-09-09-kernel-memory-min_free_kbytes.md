@@ -2,6 +2,7 @@
 layout: post
 title: "调整内核参数:vm.min_free_kbytes引发的故障"
 author: muahao
+excerpt: 调整内核参数
 tags:
 - kernel
 - memory

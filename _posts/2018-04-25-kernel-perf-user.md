@@ -2,6 +2,7 @@
 layout: post
 title: "In-depth code research - perf"
 author: muahao
+excerpt: In-depth code research - perf
 tags:
 - kernel
 - perf
