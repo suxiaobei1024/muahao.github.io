@@ -23,7 +23,7 @@ Focus on Linux system and Linux kernel performance, debug, technique skills supp
 
 ---
 ### Presentations
-* 2018.07.26: LC3 topic share:<Advanced Disk Activity Tracing Tool - ioTrace> ![Ahao_Mu_LC3_iotrace.pdf](pdf/Ahao_Mu_LC3_iotrace.pdf)
+* 2018.07.26: LC3 topic share:<Advanced Disk Activity Tracing Tool - ioTrace>
 
 ----
 
