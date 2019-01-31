@@ -2,6 +2,7 @@
 layout: post
 title: "Getting start with dbus in systemd (01) - Interface, method, path"
 author: muahao
+categories: systemd
 excerpt: Getting start with dbus in systemd (01) - Interface, method, path
 tags:
 - systemd
