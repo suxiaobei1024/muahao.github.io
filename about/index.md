@@ -19,7 +19,7 @@ Focus on Linux system and Linux kernel performance, debug, technique skills supp
 
 ---
 ### Experience
-* Time: 07/2015 - now: work for alibaba around linux kernel.
+* Time: 07/2015 - Now: Staff engineer at Alibaba Group.
 
 ---
 ### Presentations
