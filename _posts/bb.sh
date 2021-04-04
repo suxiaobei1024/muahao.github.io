@@ -9,8 +9,24 @@
 #***************************************************************#
 
 for i in `ls  *.md`; do 
-	CONTENT=`cat $i | grep title | awk -F":" '{print $2}' | tr -d "\""`; 
-	TEXT="excerpt:$CONTENT"; 
-	echo "====$i --- $TEXT"
-	#sed -i "/author:/a\\$TEXT" $i
+	head -n 20 $i | grep categories;
+	if [[ $? == 0 ]];then
+		continue
+	fi
+
+	echo "######################3"
+	data=`head -n 10 $i | grep tags -A 3`
+	
+
+	echo "$data" | grep "memory"
+	if [[ $? == 0 ]];then
+		TEXT="categories:memory"; 
+	else
+		TEXT=""
+	fi
+
+	if [[ -n $TEXT ]];then
+		echo "====$i == $TEXT"
+		sed -i "/author:/a\\$TEXT" $i
+	fi
 done
