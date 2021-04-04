@@ -5,7 +5,6 @@ author: muahao
 excerpt: In-depth code research - alloc_pages
 tags:
 - memory
-- kernel
 ---
 
 ## 申请一个页块(page block: which order=x）

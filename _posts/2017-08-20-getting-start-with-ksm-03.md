@@ -4,7 +4,6 @@ title: "Getting start with ksm in kernel (03)"
 author: Ahao Mu
 excerpt: Getting start with ksm in kernel (03)
 tags:
-- kernel
 - memory
 ---
 
