@@ -4,7 +4,7 @@
 # Author: $SHTERM_REAL_USER@alibaba-inc.com
 # Create Date: 2019-01-31 14:02
 # Modify Author: @alibaba-inc.com
-# Modify Date: 2021-04-04 17:50
+# Modify Date: 2021-04-05 14:45
 # Function: 
 #***************************************************************#
 
@@ -20,7 +20,7 @@ for i in `ls  *.md`; do
 
 	echo "$data" | grep "memory"
 	if [[ $? == 0 ]];then
-		TEXT="categories:memory"; 
+		TEXT="categories: memory"; 
 	else
 		TEXT=""
 	fi
